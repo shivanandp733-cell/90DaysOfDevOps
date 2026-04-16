@@ -2,16 +2,16 @@
 -----------------------------------------------------------------------
 ## Welcome to Week 1 of the 90 Days of DevOps - 2026 Edition! This week's focus is on Networking, a foundational skill for every DevOps professional. Let's dive into understanding key networking concepts, tools, and tasks essential for building a strong DevOps career.
 
-	Core DevOps Responsibilities, in the larger context of Networking for DevOps Engineers ?
+#	Core DevOps Responsibilities, in the larger context of Networking for DevOps Engineers ?
 In the context of networking, having a strong understanding of network protocols and tools is essential for a DevOps engineer, as networking plays a crucial role in automating software development, testing, and deployment processes
 
-	Infrastructure Design: DevOps engineers are tasked with designing and implementing the infrastructure that supports software development and deployment. This hands-on responsibility includes setting up networks, configuring routers and firewalls, and ensuring servers are properly connected. Grasping networking protocols and infrastructure design principles is required to build efficient and scalable systems
+#	Infrastructure Design: DevOps engineers are tasked with designing and implementing the infrastructure that supports software development and deployment. This hands-on responsibility includes setting up networks, configuring routers and firewalls, and ensuring servers are properly connected. Grasping networking protocols and infrastructure design principles is required to build efficient and scalable systems
 
-	Application Deployment: Deploying applications to production environments requires setting up and configuring servers, load balancers, and other network components. A solid foundation in networking principles ensures these applications run reliably and allows the engineer to resolve network-related issues that occur during deployment
+#	Application Deployment: Deploying applications to production environments requires setting up and configuring servers, load balancers, and other network components. A solid foundation in networking principles ensures these applications run reliably and allows the engineer to resolve network-related issues that occur during deployment
 
-	Automation: Because DevOps fundamentally aims to improve efficiency and reduce errors through automation, engineers use networking automation tools like Ansible and Puppet. These tools automate the configuration and maintenance of network devices, making a good understanding of networking protocols essential for streamlining network-related tasks.
+#	Automation: Because DevOps fundamentally aims to improve efficiency and reduce errors through automation, engineers use networking automation tools like Ansible and Puppet. These tools automate the configuration and maintenance of network devices, making a good understanding of networking protocols essential for streamlining network-related tasks.
 
-	Monitoring: DevOps engineers must monitor and maintain both applications and the broader infrastructure. This includes monitoring network traffic, identifying performance bottlenecks, and troubleshooting network problems. Familiarity with networking tools and protocols enables engineers to identify and resolve these issues promptly.
+#	Monitoring: DevOps engineers must monitor and maintain both applications and the broader infrastructure. This includes monitoring network traffic, identifying performance bottlenecks, and troubleshooting network problems. Familiarity with networking tools and protocols enables engineers to identify and resolve these issues promptly.
 
 --------------------------------------------------------------------------------------------------------------------------
 ## Infrastructure Design, in the larger context of Core DevOps Responsibilities ?
