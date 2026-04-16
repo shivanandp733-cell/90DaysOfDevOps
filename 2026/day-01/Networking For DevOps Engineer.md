@@ -71,7 +71,7 @@ automate the broader deployment pipeline.
 
 
 
-1) OSI Model (7 Layers) :
+## OSI Model (7 Layers) :
 the OSI (Open Systems Interconnection) model serves as a foundational conceptual framework for understanding how data is transmitted across a network. While practical network implementations typically use the condensed four-layer TCP/IP suite, the OSI model breaks down network communication into a highly detailed theoretical blueprint consisting of seven distinct layers
 
 Each of the seven layers is responsible for specific, isolated network functions:
@@ -93,7 +93,7 @@ Application Layer (Layer 7): The top layer that interacts directly with software
 For DevOps engineers, understanding these seven layers is crucial. Even though the internet operates on the TCP/IP protocol suite, the 7-layer OSI model provides a granular, step-by-step methodology for designing infrastructure and troubleshooting network issues. By isolating functions into specific layers, engineers can more easily pinpoint exactly where communication breakdowns or performance bottlenecks are occurring within their deployment pipelines.
 
 
-2) TCP/IP Reference Model:
+## TCP/IP Reference Model:
 while the OSI model serves as a detailed seven-layer theoretical framework, the TCP/IP Reference Model is the practical suite of communication protocols used to actually interconnect network devices. Standing for Transmission Control Protocol/Internet Protocol, this suite is the standard used across the public internet, as well as in private computer networks like intranets and extranets.
 
 The TCP/IP model condenses network processes into four distinct layers:
